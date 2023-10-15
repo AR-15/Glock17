@@ -2,13 +2,13 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "819d0b8b",
+   "id": "f99821ef",
    "metadata": {
     "papermill": {
-     "duration": 0.003991,
-     "end_time": "2023-10-15T09:17:59.381951",
+     "duration": 0.002518,
+     "end_time": "2023-10-15T09:21:13.409302",
      "exception": false,
-     "start_time": "2023-10-15T09:17:59.377960",
+     "start_time": "2023-10-15T09:21:13.406784",
      "status": "completed"
     },
     "tags": []
@@ -17,13 +17,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "3a9e5dc8",
+   "id": "79b32370",
    "metadata": {
     "papermill": {
-     "duration": 0.002328,
-     "end_time": "2023-10-15T09:17:59.387720",
+     "duration": 0.001571,
+     "end_time": "2023-10-15T09:21:13.413113",
      "exception": false,
-     "start_time": "2023-10-15T09:17:59.385392",
+     "start_time": "2023-10-15T09:21:13.411542",
      "status": "completed"
     },
     "tags": []
@@ -33,19 +33,19 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "371eecc5",
+   "id": "09fc124f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-10-15T09:17:59.398130Z",
-     "iopub.status.busy": "2023-10-15T09:17:59.397353Z",
-     "iopub.status.idle": "2023-10-15T09:18:45.353588Z",
-     "shell.execute_reply": "2023-10-15T09:18:45.352561Z"
+     "iopub.execute_input": "2023-10-15T09:21:13.421936Z",
+     "iopub.status.busy": "2023-10-15T09:21:13.421280Z",
+     "iopub.status.idle": "2023-10-15T09:22:01.321962Z",
+     "shell.execute_reply": "2023-10-15T09:22:01.320865Z"
     },
     "papermill": {
-     "duration": 45.965931,
-     "end_time": "2023-10-15T09:18:45.356161",
+     "duration": 47.909592,
+     "end_time": "2023-10-15T09:22:01.324370",
      "exception": false,
-     "start_time": "2023-10-15T09:17:59.390230",
+     "start_time": "2023-10-15T09:21:13.414778",
      "status": "completed"
     },
     "tags": []
@@ -55,11 +55,11 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "随机单词: priest\n",
-      "随机单词: droves\n",
-      "随机单词: file\n",
-      "随机单词: iowa\n",
-      "随机单词: revisited\n",
+      "随机单词: lethargic\n",
+      "随机单词: karn\n",
+      "随机单词: ringmaster\n",
+      "随机单词: magician\n",
+      "随机单词: loose\n",
       "\n",
       "主题 0 中的前20个关键词:\n",
       "['your', 'by', 'world', 'an', 'for', 'from', 's', 'with', 'his', 'as', 'on', 'you', 'game', 'is', 'in', 'to', 'and', 'a', 'of', 'the']\n",
@@ -557,14 +557,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 50.673727,
-   "end_time": "2023-10-15T09:18:46.783640",
+   "duration": 52.619385,
+   "end_time": "2023-10-15T09:22:02.756531",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2023-10-15T09:17:56.109913",
+   "start_time": "2023-10-15T09:21:10.137146",
    "version": "2.4.0"
   }
  },
